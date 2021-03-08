@@ -2,5 +2,10 @@
     "firstPage" : {
         "title" : "h1",
         "text" : "p"
+    },
+
+    "childReading" : {
+        "title" : ".mb-2",
+        "text" : ".space-y-2"
     }
 }

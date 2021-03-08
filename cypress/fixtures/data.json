@@ -22,5 +22,15 @@
     "fifthPage" : {
         "title" : "The Results",
         "text" : "Once the assessment is completed"
+    },
+
+    "childReadingFirstPage" : {
+        "title" : "Passage 1 / 2",
+        "text" : "Beth and Jake want to sell lemonade in the neighborhood. Beth squeezes big lemons. Jake adds sugar and water. Beth stirs the yellow liquid. Jake adds ice to the pitcher. Beth’s mom sets up a table. Beth and Jake sell cups of lemonade for fifty cents."
+    },
+
+    "childReadingSecondPage" : {
+        "title" : "Passage 2 / 2",
+        "text" : "The Atlantic Spotted Dolphins are found in the Atlantic Ocean. They live in warm shallow water. Their spotted bodies are dark gray and their bellies are white. Atlantic Spotted Dolphins eat small fish. These dolphins are fast swimmers and will often swim near boats."
     }
 }
