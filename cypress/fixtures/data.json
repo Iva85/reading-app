@@ -1,0 +1,26 @@
+{
+    "firstPage" : {
+        "title" : "The purpose",
+        "text" : "Reading Check by Lexplore is a quick and practical way to evaluate your child's reading ability and get a sense of how they will function academically at a specific grade level. It is based on the well established method Running Records. The immediate results and instructional resources offered will guide you toward the appropriate next steps in your child's successful reading development."
+    },
+
+    "secondPage" : {
+        "title" : "The Simple Setup",
+        "text" : "The examiner and the reader can sit together, each with their own device (phone, tablet or computer). The reader's text can be printed if you do not have two devices available."
+    },
+
+    "thirdPage" : {
+        "title" : "To Begin",
+        "text" : "Select the user mode on each device."
+    },
+
+    "fourthPage" : {
+        "title" : "The Test",
+        "text" : "The examiner measures"
+    },
+
+    "fifthPage" : {
+        "title" : "The Results",
+        "text" : "Once the assessment is completed"
+    }
+}
